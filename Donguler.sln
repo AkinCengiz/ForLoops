@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{EA9B68D3-64AF-47BC-88EB-F72FB8FA59A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{8E431B42-268D-4CB3-9F57-196E1CB79011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop2", "ForLoop2\ForLoop2.csproj", "{1ACDDDED-B9EE-4755-8C40-87AF3BB3CACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA9B68D3-64AF-47BC-88EB-F72FB8FA59A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9B68D3-64AF-47BC-88EB-F72FB8FA59A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9B68D3-64AF-47BC-88EB-F72FB8FA59A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9B68D3-64AF-47BC-88EB-F72FB8FA59A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E431B42-268D-4CB3-9F57-196E1CB79011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E431B42-268D-4CB3-9F57-196E1CB79011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E431B42-268D-4CB3-9F57-196E1CB79011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E431B42-268D-4CB3-9F57-196E1CB79011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ACDDDED-B9EE-4755-8C40-87AF3BB3CACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACDDDED-B9EE-4755-8C40-87AF3BB3CACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACDDDED-B9EE-4755-8C40-87AF3BB3CACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACDDDED-B9EE-4755-8C40-87AF3BB3CACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1136F534-B785-4ECC-90E3-CCAA76FCA23B}
+	EndGlobalSection
+EndGlobal
